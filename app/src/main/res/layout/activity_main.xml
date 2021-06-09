@@ -76,7 +76,7 @@
         app:tint="@color/tint_icon"
         app:layout_constraintStart_toStartOf="@id/ivCustomer"
         app:layout_constraintTop_toBottomOf="@id/ivCustomer"
-        android:contentDescription="@string/lb_productimage" />
+        android:contentDescription="@string/lb_productImage" />
 
     <com.google.android.material.button.MaterialButton
         style="@style/Widget.MaterialComponents.Button.TextButton.Dialog"
