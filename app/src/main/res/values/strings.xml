@@ -8,4 +8,6 @@
     <string name="lb_add">add</string>
     <string name="lb_sampleName">Maung Maung</string>
     <string name="lb_samplePhoneNo">09123456789</string>
+    <string name="lb_sampleProductName">Mouse</string>
+    <string name="lb_samplePrice">K 32,000</string>
 </resources>
