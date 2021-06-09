@@ -10,4 +10,6 @@
     <color name="text_color">#333333</color>
     <color name="bg_icon">#E1E1E1</color>
     <color name="tint_icon">#F5A280</color>
+    <color name="phone_color">#474747</color>
+    <color name="divider_color">#9A9A9A</color>
 </resources>
