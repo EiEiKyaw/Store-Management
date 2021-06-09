@@ -10,4 +10,10 @@
     <string name="lb_samplePhoneNo">09123456789</string>
     <string name="lb_sampleProductName">Mouse</string>
     <string name="lb_samplePrice">K 32,000</string>
+    <string name="lb_addCustomer">Add Customer</string>
+    <string name="lb_customerName">Customer Name</string>
+    <string name="lb_phoneNo">Phone No</string>
+    <string name="lb_addProduct">Add Product</string>
+    <string name="lb_productName">Product Name</string>
+    <string name="lb_price">Price</string>
 </resources>

@@ -12,4 +12,5 @@
     <color name="tint_icon">#F5A280</color>
     <color name="phone_color">#474747</color>
     <color name="divider_color">#9A9A9A</color>
+    <color name="add_btn_color">#0A95A1</color>
 </resources>
