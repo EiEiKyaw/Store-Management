@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Store Management</string>
+    <string name="lb_title">Customer and Product</string>
+    <string name="lb_customerList">Customer List</string>
+    <string name="lb_productList">Product List</string>
+    <string name="lb_customerImage">customer_image</string>
+    <string name="lb_productimage">productImage</string>
 </resources>
