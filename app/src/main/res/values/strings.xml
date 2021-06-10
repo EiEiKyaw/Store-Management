@@ -16,4 +16,5 @@
     <string name="lb_addProduct">Add Product</string>
     <string name="lb_productName">Product Name</string>
     <string name="lb_price">Price</string>
+    <string name="lb_chooseProduct">Choose Product</string>
 </resources>
