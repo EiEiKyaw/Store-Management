@@ -76,6 +76,7 @@
 
     <com.google.android.material.button.MaterialButton
         style="@style/text.title"
+        android:id="@+id/btnAddCustomer"
         android:layout_width="@dimen/size_0"
         android:layout_height="@dimen/size_68"
         android:layout_marginTop="@dimen/size_24"

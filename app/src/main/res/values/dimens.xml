@@ -37,5 +37,6 @@
     <dimen name="size_60">60dp</dimen>
     <dimen name="size_68">68dp</dimen>
     <dimen name="size_70">70dp</dimen>
+    <dimen name="size_150">150dp</dimen>
     <dimen name="divider_size">0.5dp</dimen>
 </resources>

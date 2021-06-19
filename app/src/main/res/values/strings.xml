@@ -17,4 +17,6 @@
     <string name="lb_productName">Product Name</string>
     <string name="lb_price">Price</string>
     <string name="lb_chooseProduct">Choose Product</string>
+    <string name="lb_logo_image">logo image</string>
+    <string name="lb_userName">User Name</string>
 </resources>

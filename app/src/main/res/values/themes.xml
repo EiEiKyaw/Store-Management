@@ -42,4 +42,26 @@
         <item name="android:layout_marginTop">8dp</item>
     </style>
 
+    <style name="customTextInput" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">#f7f7f7</item>
+        <item name="boxStrokeWidth">0dp</item>
+    </style>
+
+    <style name="customTextInput.password">
+        <item name="passwordToggleEnabled">true</item>
+    </style>
+
+    <style name="customEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:inputType">text</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:paddingStart">8dp</item>
+    </style>
+
+    <style name="customEditText.password">
+        <item name="android:inputType">textPassword</item>
+    </style>
+
 </resources>
